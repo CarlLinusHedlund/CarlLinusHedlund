@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hello there! 👋
+
+![Alt text](<iframe src="https://giphy.com/embed/xTiIzJSKB4l7xTouE8" width="480" height="208" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8">via GIPHY</a></p>"Optional title")
+
 
 # 💫 About Me:
-🌱 I’m currently learning React.Js, Express.JS and MongoDB<br>👨‍💻 All of my projects are available at carllinushedlund.no<br>📫 How to reach me linus.hedlund96@hotmail.com<br>⚡ Fun fact Avocados are a fruit, not a vegetable :)
+Hello There! My name is Carl Linus Hedlund. Im a 26 year old JR frontend developer (last year student) based in Oslo, Norway.
+
+🌱 I’m currently learning React.Js, Express.JS and MongoDB<br>👨‍💻 All of my projects are available at carllinushedlund.no (Soon)<br>📫 How to reach me linus.hedlund96@hotmail.com<br>⚡ Fun fact Avocados are a fruit, not a vegetable :)
 
 
 ## 🌐 Socials:
