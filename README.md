@@ -20,7 +20,7 @@ Hello There! My name is Carl Linus Hedlund. Im a 26 year old JR frontend develop
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=carllinushedlund&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+![Alt Text](https://random-memer.herokuapp.com/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=carllinushedlund&icon=0&color=12)](https://visitcount.itsvg.in)
