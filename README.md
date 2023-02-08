@@ -1,5 +1,3 @@
-### Hello there! 👋
-
 ![Alt Text](https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e479wr2ht4p39o36kcxk6ukd52q2iicromt6si45pvf&rid=giphy.gif&ct=g)
 
 
