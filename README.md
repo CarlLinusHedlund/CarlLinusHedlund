@@ -4,7 +4,7 @@
 # 💫 About Me:
 Hello There! My name is Carl Linus Hedlund. Im a 26 year old JR frontend developer (last year student) based in Oslo, Norway.
 
-🌱 I’m currently learning React.Js, Express.JS, MongoDB & Supabase<br>👨‍💻 All of my projects are available at [carllinushedlund.no](https://carl-linus-hedlund-devs.vercel.app/) (Soon)<br>📫 How to reach me linus.hedlund96@hotmail.com<br>⚡ Fun fact Avocados are a fruit, not a vegetable :)
+🌱 I’m currently learning React.Js, Express.JS, MongoDB & Supabase<br>👨‍💻 All of my projects are available at [carllinushedlund.com](https://carllinushedlund.com) (Soon)<br>📫 How to reach me linus.hedlund96@hotmail.com<br>⚡ Fun fact Avocados are a fruit, not a vegetable :)
 
 
 ## 🌐 Socials:
